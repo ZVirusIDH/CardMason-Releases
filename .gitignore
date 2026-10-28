@@ -1,0 +1,7 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Executables (downloads are attached to GitHub Releases, not checked into git)
+*.exe
+*.zip
